@@ -27,9 +27,9 @@ class MysqlImproved_Driver extends Database_Library
 	{
 		//connection parameters
 		$host = 'localhost';
-		$user = 'root';
-		$password = 'root';
-		$database = 'ajaxTable';
+		$user = '******';
+		$password = '******';
+		$database = '*******';
 	
 		//your implementation may require these...
 		$port = NULL;
